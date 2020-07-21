@@ -1,0 +1,10 @@
+Heroes Of Pymoli - short report/findings:
+
+Based on the analysis we can see following trends:
+
+1) There are returning paying players - app. 26% purchases returning ones (780 purchases made by 576 players)
+
+2) The majority of the paying players are men (84%) contributing 83% of total revenues. On the other side, both the Average Total Purchase per Person and Average Purchase Price is higher for women than for men ($4.47 vs $4.07 and $3.20 vs. $3.02).  
+
+3) From the age perspective, the majority of the payers is in the category of 20-24 years (44.79%) and together with the age categories of 15-19 (18.58%) and 25-29 (13.37%) they represent more than 76% of customers. The revenue contribution of these 3 age groups is comparable (76.5%).
+
